@@ -72,7 +72,6 @@
   <h3>💻 GitHub Profile Stats</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Arnoldmnn&theme=dark&border_radius=5&type=png)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Arnoldmn)](https://git.io/streak-stats)
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -80,4 +79,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Arnoldmn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Arnoldmn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmn&layout=compact&theme=dracula)
+
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Arnoldmn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Arnoldmn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
