@@ -55,10 +55,10 @@
   </p>
 </details>
 
-<details> 
+ 
   <!-- GitHub Readme Streak Stats - https://github.com/Arnoldmn/github-readme-streak-stats -->
   <p>
- <details> 
+ 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -75,14 +75,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldmn&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmn&layout=compact&theme=dracula)
- </details>
-</details>
 
-<details>
- <p>
 ## Find me around the online :earth_africa:: 
-   - [Twitter](https://twitter.com/ArnoldMumbere)
-   - [LinkedIn](https://www.linkedin.com/in/mumbere-arnold-3ba7a725a/)
-   - [Portfolio](https://arnoldnm.web.app/)
- </p>
-</details>
+- [Twitter](https://twitter.com/ArnoldMumbere)
+- [LinkedIn](https://www.linkedin.com/in/mumbere-arnold-3ba7a725a/)
+- [Portfolio](https://arnoldnm.web.app/)
+
