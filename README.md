@@ -4,7 +4,13 @@
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 > <p align="justify">
- I'm a software engineer and full-stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js, Flutter/dart, HTML/css3, Solidity
+ I'm a software engineer and full-stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js, Flutter/dart, HTML/css3 and Solidity...
+
+- 🔭 I’m currently working as Freelance Developer
+- 🌱 I’m currently learning Ruby on Rails.
+- 👯 I’m looking to collaborate with other developers.
+- ⚡ Fun fact: I love playing football and an avid lover of Basketball.
+- 💻 I'm looking for new opportunities.
 
 </p>
 
@@ -68,5 +74,5 @@
   <h3>💻 GitHub Profile Stats</h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldmn&show_icons=true&theme=dracula)
- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmn&layout=compact&theme=dracula)
+</details>
