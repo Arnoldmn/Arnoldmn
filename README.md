@@ -66,9 +66,7 @@
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldmn&show_icons=true&theme=dracula)
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmn&layout=compact&theme=dracula)
-
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Arnoldmn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Arnoldmn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
