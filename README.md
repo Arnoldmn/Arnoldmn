@@ -64,12 +64,15 @@
   <!-- GitHub Readme Streak Stats - https://github.com/Arnoldmn/github-readme-streak-stats -->
   <p>
    <a href="https://github.com/Arnoldmn/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnoldmn's streak" src="https://streak-stats.demolab.com?user=Arnoldmnn&theme=dark&border_radius=5&type=png)](https://git.io/streak-stats"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnoldmn's streak" src=""/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Arnoldmnn&theme=dark&border_radius=5&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Arnoldmn)](https://git.io/streak-stats)
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
