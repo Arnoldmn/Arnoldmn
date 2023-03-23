@@ -64,22 +64,14 @@
   <!-- GitHub Readme Streak Stats - https://github.com/Arnoldmn/github-readme-streak-stats -->
   <p>
    <a href="https://github.com/Arnoldmn/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnoldmn's streak" src=""/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Arnoldmn's streak" src="https://streak-stats.demolab.com/?user=Arnoldmn&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+   <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arnoldmnn&theme=dark&border_radius=5&type=png)](https://git.io/streak-stats)
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmn&layout=compact&theme=dracula)
+![Arnoldmn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnoldmn&show_icons=true&theme=dracula) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldmn&layout=compact&theme=dracula)
 
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Arnoldmn's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=Arnoldmn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
