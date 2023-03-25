@@ -7,7 +7,7 @@
  I'm a software engineer and full-stack developer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Node.js, Flutter/dart, HTML/css3 and Solidity...
 
 - 🔭 I’m currently working as Freelance Developer
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 I’m currently learning Solidity & Web3.0.
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love playing football and an avid lover of Basketball.
 - 💻 I'm looking for new opportunities.
